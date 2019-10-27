@@ -44,5 +44,5 @@ class School
     
 end
   
- "Test School" = school.new
+ "Test School" school.new
   
