@@ -44,6 +44,6 @@ class School
     
 end
   
- School.new("Test School", roster)
+
  
   
